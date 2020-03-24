@@ -19,6 +19,10 @@ links:
       url: https://mrhuanhao.cn/
       avatar: https://cdn.jsdelivr.net/gh/mrhuanhao/cdn/myimg/huanhao.jpg
       tags: [2.2主题, linux]
+    - name: xaoxuu
+      url: https://bibiqo.cn/
+      avatar: https://sm.ms/image/xez4QG21Eospi9m
+      tags: [Java, 生活]
   - group: '版本：^2.1'
     desc: 支持 Tab 标签
     items:
